@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>AJAY'S PHP</title>
  </head>
  <body>
- <?php echo '<p>Hello World</p>'; ?> 
+ <?php echo '<p>Hi Everyone This is "AJAY"</p>'; ?> 
  </body>
 </html>
